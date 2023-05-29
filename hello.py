@@ -1,1 +1,1 @@
-print("집 가고 싶어요")
+print("hello world, bye world")
